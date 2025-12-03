@@ -1,0 +1,38 @@
+# --- Core Project Dependencies ---
+crewai
+
+# --- LLM / Groq ---
+groq
+
+# --- FastAPI & API ---
+fastapi
+uvicorn[standard]
+pydantic
+
+# --- Database (PostgreSQL) ---
+sqlalchemy
+psycopg2-binary
+
+# --- Data Processing & ML ---
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+joblib
+scipy
+
+# --- Streamlit Dashboard ---
+streamlit
+plotly
+
+# --- Utilities ---
+python-dotenv
+pyyaml
+tqdm
+
+# --- Optional / Dev Tools ---
+jupyter
+ipykernel
+faker

@@ -1,0 +1,72 @@
+# =====================================================
+# Lead Score Flow Configuration (Groq + PostgreSQL)
+# =====================================================
+
+# ------------------------------
+# LLM Configuration (Groq)
+# ------------------------------
+llm:
+  agents:
+    data_analyst:
+      model: "llama-3.1-8b-instant"
+      temperature: 0.2
+
+    ml_engineer:
+      model: "llama-3.1-8b-instant"
+      temperature: 0.2
+
+    scoring_specialist:
+      model: "llama-3.1-8b-instant"
+      temperature: 0.2
+
+    bi_analyst:
+      model: "llama-3.1-8b-instant"
+      temperature: 0.1
+
+# ------------------------------
+# Crew Settings
+# ------------------------------
+crew:
+  verbose: true
+
+# ------------------------------
+# Model Training Config
+# ------------------------------
+model:
+  algorithm: "xgboost"
+  test_size: 0.2
+  cv_folds: 3
+  random_state: 42
+
+  score_ranges:
+    hot: [80, 100]
+    warm: [60, 79]
+    cold: [40, 59]
+    unqualified: [0, 39]
+
+# ------------------------------
+# Database (PostgreSQL via ENV)
+# ------------------------------
+database:
+  type: postgresql
+  use_env_dsn: true
+  env_vars:
+    host: "POSTGRES_HOST"
+    port: "POSTGRES_PORT"
+    user: "POSTGRES_USER"
+    password: "POSTGRES_PASSWORD"
+    database: "POSTGRES_DB"
+    sslmode: "POSTGRES_SSLMODE"
+
+# ------------------------------
+# API Settings
+# ------------------------------
+api:
+  host: "0.0.0.0"
+  port: 8000
+
+# ------------------------------
+# Dashboard Settings
+# ------------------------------
+dashboard:
+  port: 8501
