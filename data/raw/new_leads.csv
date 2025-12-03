@@ -1,0 +1,401 @@
+lead_id,email,company_name,industry,job_title,seniority_level,company_size,country,email_opens,email_clicks,website_visits,time_on_site,pages_viewed,content_downloads,form_submissions,event_attendance,demo_requests,pricing_page_views,feature_page_views,days_since_first_interaction,total_interactions,last_interaction_days
+LEAD_1,smithsamantha@example.com,Thomas-Carey,Retail,Outdoor activities/education manager,Executive,1-10,Germany,11,4,25,669,14,2,0,1,0,1,1,21,18,4
+LEAD_2,rivastina@example.org,"Guzman, Garcia and Davidson",Retail,Proofreader,Executive,1-10,Germany,10,6,28,694,5,4,2,1,0,2,1,29,55,17
+LEAD_3,david17@example.net,Palmer-Holmes,Retail,"Scientist, biomedical",Senior,51-200,Canada,9,0,0,215,7,0,2,0,0,3,9,56,5,15
+LEAD_4,millerphilip@example.org,"Rogers, Swanson and Ayers",Healthcare,Fine artist,Mid,51-200,USA,7,8,23,425,6,4,2,0,1,4,8,100,40,15
+LEAD_5,thomasbarajas@example.com,Hill-Houston,Finance,"Restaurant manager, fast food",Mid,51-200,Germany,4,6,5,62,11,0,1,0,0,0,8,63,32,11
+LEAD_6,tmartinez@example.net,Hale and Sons,Healthcare,"Programmer, systems",Senior,201-1000,Germany,2,9,18,497,12,0,2,1,0,0,8,96,16,2
+LEAD_7,judybennett@example.org,Strong-Marquez,Technology,Art therapist,Senior,1000+,USA,15,6,27,791,16,3,1,0,1,0,2,42,16,29
+LEAD_8,sjarvis@example.com,Coleman-Garza,Healthcare,"Surveyor, planning and development",Entry,1000+,Germany,11,1,0,433,14,3,0,0,1,0,3,12,43,29
+LEAD_9,carolynwilliams@example.com,Gonzales Inc,Healthcare,Interpreter,Mid,1-10,Canada,11,4,30,767,7,1,1,0,1,1,7,27,41,11
+LEAD_10,jamesjesse@example.org,Jackson-Rogers,Technology,Audiological scientist,Entry,1-10,India,11,3,20,722,4,2,0,1,1,0,6,64,44,4
+LEAD_11,jordanflores@example.net,"Heath, Thompson and Henry",Finance,"Solicitor, Scotland",Executive,1000+,UK,16,2,4,481,15,3,1,1,0,0,8,16,39,10
+LEAD_12,nelsonelizabeth@example.org,Reese PLC,Retail,Training and development officer,Mid,51-200,UK,14,0,26,410,13,4,1,0,0,4,5,92,22,26
+LEAD_13,suesullivan@example.net,Hernandez-Martinez,Technology,"Psychologist, occupational",Senior,11-50,USA,6,9,7,331,5,1,0,0,0,3,3,108,31,11
+LEAD_14,georgeramirez@example.net,Ortega Inc,Healthcare,"Nurse, mental health",Mid,201-1000,Germany,19,1,13,619,11,1,1,1,0,2,1,111,24,11
+LEAD_15,karen88@example.com,Nielsen-Adams,Retail,Water quality scientist,Senior,201-1000,India,19,4,2,199,18,2,0,0,0,1,3,69,21,7
+LEAD_16,jonathon14@example.org,Wilson-Jones,Finance,"Engineer, chemical",Executive,1000+,USA,11,5,3,47,9,1,1,1,1,0,7,80,26,16
+LEAD_17,solomonanthony@example.com,Smith-Kerr,Technology,"Programmer, systems",Executive,201-1000,USA,17,3,5,94,6,4,0,0,0,2,4,66,50,12
+LEAD_18,tricianelson@example.com,"Collins, Black and King",Healthcare,Aeronautical engineer,Senior,11-50,USA,0,1,19,615,2,2,1,0,0,3,2,80,21,20
+LEAD_19,debbiejames@example.com,Cruz Inc,Education,Public relations officer,Senior,201-1000,Germany,4,3,14,292,9,2,0,0,1,3,0,34,22,6
+LEAD_20,iroberts@example.net,Miller Ltd,Finance,"Administrator, arts",Mid,1-10,USA,6,2,37,133,1,2,2,1,0,3,8,63,45,27
+LEAD_21,ljones@example.net,Snow-Hunter,Education,"Engineer, civil (consulting)",Senior,51-200,UK,15,1,9,379,10,3,2,1,1,4,0,103,41,7
+LEAD_22,brettspencer@example.org,Mack-Martinez,Healthcare,Radio broadcast assistant,Mid,1000+,USA,9,5,22,780,10,3,1,0,1,4,1,34,19,17
+LEAD_23,xhill@example.net,Chen-Johns,Technology,Arts administrator,Senior,11-50,Germany,7,3,14,759,17,4,2,0,0,0,6,88,29,5
+LEAD_24,vtorres@example.org,Payne Ltd,Finance,Applications developer,Senior,1000+,UK,18,9,37,381,4,3,2,1,0,2,3,103,50,12
+LEAD_25,mendozajane@example.org,Anderson Inc,Technology,Geoscientist,Senior,201-1000,Canada,13,1,35,619,2,2,0,0,0,3,3,89,24,5
+LEAD_26,vreynolds@example.org,Valentine Ltd,Healthcare,Interior and spatial designer,Entry,11-50,India,14,5,38,395,1,2,1,0,0,3,1,67,29,11
+LEAD_27,oharris@example.org,"Barr, Hayes and Young",Education,Museum education officer,Executive,1-10,Germany,9,0,22,94,8,1,0,0,0,0,4,61,59,21
+LEAD_28,scott39@example.com,"Wells, Alvarado and Martinez",Technology,"Doctor, hospital",Mid,1000+,Germany,19,5,2,313,12,2,0,0,1,4,6,13,39,25
+LEAD_29,robertjacobson@example.com,Hansen Inc,Finance,Careers adviser,Mid,51-200,UK,9,0,21,407,14,0,2,0,0,3,7,80,22,28
+LEAD_30,leonshannon@example.org,Miller Inc,Retail,Camera operator,Mid,1000+,Canada,9,9,27,63,9,1,1,1,0,2,1,76,36,17
+LEAD_31,freyes@example.org,"Harris, Thomas and Jones",Technology,Hydrogeologist,Executive,11-50,UK,11,7,20,127,3,4,2,0,0,1,0,24,30,23
+LEAD_32,jason08@example.org,Wagner LLC,Retail,Agricultural engineer,Executive,11-50,Germany,2,8,36,381,17,4,0,1,1,2,1,26,22,20
+LEAD_33,trevorfreeman@example.com,Farley-Elliott,Education,Colour technologist,Mid,1-10,UK,0,9,4,442,7,2,0,0,0,2,3,101,37,21
+LEAD_34,pughkathryn@example.com,"Ferguson, Simon and Marsh",Healthcare,Data scientist,Entry,201-1000,Canada,9,1,20,500,14,0,0,1,1,1,1,17,57,3
+LEAD_35,mark23@example.net,Johnson-Moreno,Retail,Economist,Executive,201-1000,USA,13,3,11,716,7,0,1,0,0,2,5,65,41,12
+LEAD_36,joel89@example.com,Gutierrez-Walker,Healthcare,"Engineer, communications",Executive,1000+,India,14,3,28,636,11,1,1,0,1,2,3,103,17,11
+LEAD_37,tharris@example.com,Yoder LLC,Education,Fashion designer,Entry,1-10,India,14,4,12,553,2,1,0,1,1,0,5,3,9,16
+LEAD_38,patricia06@example.net,"Velasquez, Torres and Haynes",Healthcare,"Engineer, manufacturing",Mid,1000+,Germany,2,3,16,237,18,4,1,0,0,2,7,90,57,19
+LEAD_39,reneepruitt@example.net,"Moore, Sutton and Joseph",Education,"Therapist, drama",Senior,11-50,India,17,1,24,477,6,2,2,0,1,2,8,57,32,18
+LEAD_40,cory81@example.org,Gardner LLC,Technology,Investment analyst,Senior,11-50,UK,12,6,34,663,18,0,1,1,0,3,2,119,35,3
+LEAD_41,prandolph@example.org,"Daugherty, Salazar and Sloan",Retail,Industrial buyer,Senior,51-200,USA,7,3,27,154,8,4,0,1,1,1,0,104,45,8
+LEAD_42,curtishunter@example.net,Haynes-Nelson,Retail,Wellsite geologist,Entry,11-50,India,8,6,25,225,4,2,1,0,0,3,5,76,26,15
+LEAD_43,danabennett@example.net,"Collins, Duncan and Harvey",Healthcare,Social worker,Entry,11-50,Canada,1,0,27,644,11,1,2,1,0,4,6,3,21,17
+LEAD_44,christopher09@example.org,"Coleman, Johnson and Johnson",Retail,"Solicitor, Scotland",Entry,11-50,India,6,0,3,252,19,2,0,1,0,2,2,31,26,5
+LEAD_45,osanchez@example.org,Huffman-Valentine,Retail,"Designer, fashion/clothing",Entry,201-1000,Canada,10,1,36,273,5,3,0,1,1,4,9,1,8,25
+LEAD_46,gonzalezjames@example.org,"Hansen, Navarro and Nunez",Technology,Higher education lecturer,Executive,1-10,UK,0,9,38,637,12,3,0,1,0,0,5,10,50,9
+LEAD_47,scottmiller@example.net,Rose Inc,Healthcare,Community education officer,Entry,51-200,India,16,5,39,353,14,4,0,0,1,2,6,31,17,16
+LEAD_48,luisstrickland@example.net,"Garza, Rios and Carter",Education,"Designer, jewellery",Executive,51-200,Canada,5,6,0,461,16,2,0,1,0,2,1,78,47,7
+LEAD_49,jonathan09@example.net,Johnson-Black,Healthcare,"Research officer, government",Senior,201-1000,UK,15,7,12,565,12,2,2,1,1,1,2,110,13,7
+LEAD_50,crystalcooper@example.com,"Ho, Hunt and Grant",Technology,"Engineer, materials",Mid,11-50,Canada,2,6,4,51,11,3,1,0,0,3,8,77,55,14
+LEAD_51,lutznicholas@example.org,Hardin LLC,Finance,Illustrator,Entry,51-200,UK,1,8,16,381,7,1,0,0,0,4,0,10,24,9
+LEAD_52,jamescollier@example.org,Hamilton-House,Education,Agricultural engineer,Entry,1000+,UK,3,9,36,740,4,0,2,1,1,1,4,105,52,17
+LEAD_53,fleblanc@example.net,"Jones, Dennis and Erickson",Education,Administrator,Entry,51-200,Canada,11,3,22,785,15,1,0,1,1,1,2,11,54,12
+LEAD_54,denniscooper@example.org,Martin-Cox,Retail,"Scientist, marine",Senior,1-10,Germany,17,1,2,199,12,1,1,0,1,1,3,49,15,27
+LEAD_55,martinezjoseph@example.com,Campbell Group,Healthcare,Visual merchandiser,Entry,1000+,India,4,0,0,675,3,0,0,0,0,2,2,7,41,8
+LEAD_56,ubrown@example.org,Hughes Ltd,Finance,Communications engineer,Mid,1000+,USA,8,4,20,741,13,1,2,0,0,4,5,93,38,15
+LEAD_57,michaelswanson@example.net,"Yu, Mckenzie and Baker",Finance,Advertising account executive,Mid,201-1000,Germany,14,8,10,86,7,0,0,1,1,2,0,105,44,7
+LEAD_58,alexandra14@example.net,Jones Group,Technology,Speech and language therapist,Senior,11-50,UK,7,0,30,102,6,0,2,1,0,1,3,21,43,19
+LEAD_59,ibanks@example.com,Smith-Dominguez,Technology,Glass blower/designer,Mid,11-50,UK,18,0,33,302,16,2,2,1,0,0,3,99,45,17
+LEAD_60,amandamcneil@example.org,Ramirez Group,Education,Chief Strategy Officer,Executive,1-10,Canada,14,6,24,775,19,1,1,1,1,1,3,111,21,16
+LEAD_61,timothysmith@example.net,Warren PLC,Technology,Recruitment consultant,Mid,11-50,India,15,4,30,426,13,1,2,0,1,3,7,21,47,25
+LEAD_62,joshua57@example.com,Watson-Rice,Education,"Psychologist, clinical",Executive,11-50,India,6,9,19,284,2,1,1,1,1,3,8,109,21,15
+LEAD_63,sullivanrichard@example.net,"Phillips, Sims and Spence",Healthcare,Planning and development surveyor,Executive,51-200,Canada,3,7,25,637,17,0,2,0,1,1,5,80,18,27
+LEAD_64,leah07@example.org,Morrison-Bray,Finance,"Producer, television/film/video",Executive,51-200,India,13,2,26,408,14,1,0,1,0,2,5,39,33,23
+LEAD_65,gwhite@example.com,Strickland-Smith,Education,Sales promotion account executive,Entry,51-200,Germany,6,7,29,453,10,1,0,1,1,2,2,2,59,27
+LEAD_66,kshannon@example.com,Roman-Hughes,Retail,Armed forces training and education officer,Mid,1-10,India,7,0,24,481,7,1,2,0,1,3,8,73,10,24
+LEAD_67,kellydavis@example.net,Smith-Meyer,Technology,Communications engineer,Mid,201-1000,India,17,2,27,21,8,4,2,0,1,1,6,91,40,2
+LEAD_68,gomezrachel@example.com,Owens Ltd,Technology,"Programmer, systems",Senior,1-10,Canada,3,9,14,774,9,0,2,1,0,0,9,50,23,25
+LEAD_69,smithlaurie@example.org,Murray Inc,Finance,"Buyer, retail",Entry,11-50,Germany,6,1,15,590,5,1,2,0,1,3,6,55,23,3
+LEAD_70,melissasmith@example.net,"Brown, Bridges and Hawkins",Healthcare,Lawyer,Mid,51-200,UK,14,8,14,187,19,0,2,0,1,2,1,24,46,15
+LEAD_71,jenna39@example.com,Stanley-Hayes,Retail,Trading standards officer,Mid,51-200,USA,12,3,11,158,3,3,0,1,0,1,1,70,49,28
+LEAD_72,latoya70@example.org,Macdonald PLC,Finance,Theatre director,Executive,11-50,USA,0,2,37,359,14,4,1,1,0,1,8,92,58,18
+LEAD_73,hectorsmith@example.net,Lewis-Allen,Education,Careers adviser,Senior,1000+,India,12,1,21,583,14,3,2,1,1,2,6,15,34,12
+LEAD_74,gonzalesveronica@example.com,"Woodard, Bennett and Mills",Education,Patent examiner,Senior,51-200,India,18,6,34,106,15,1,2,0,0,2,8,96,41,2
+LEAD_75,storres@example.com,"Carlson, Harper and Espinoza",Education,Community education officer,Senior,1000+,Canada,17,9,26,47,8,0,1,1,1,0,6,102,42,28
+LEAD_76,rosborne@example.com,Mullins-Mitchell,Technology,Town planner,Senior,51-200,USA,1,1,29,661,6,1,1,0,1,0,9,12,37,8
+LEAD_77,claudiajohnson@example.org,Bailey-Miller,Finance,Web designer,Mid,1000+,USA,14,9,12,721,17,1,0,1,0,0,6,14,24,28
+LEAD_78,victoria42@example.com,Graham-Guerrero,Retail,Ecologist,Senior,201-1000,UK,6,1,14,778,8,0,1,0,0,4,2,23,7,4
+LEAD_79,mbaker@example.net,Lopez Ltd,Healthcare,"Nurse, mental health",Entry,11-50,UK,14,7,20,298,19,1,1,1,1,4,8,108,59,26
+LEAD_80,melissa96@example.com,Clark and Sons,Education,Armed forces technical officer,Mid,1000+,UK,2,0,3,539,19,3,2,0,0,0,8,66,55,17
+LEAD_81,perezhannah@example.net,Mitchell-Sims,Healthcare,"Producer, television/film/video",Entry,51-200,UK,4,2,27,118,2,2,0,1,1,0,0,37,12,10
+LEAD_82,sarah49@example.net,Rojas Inc,Technology,"Journalist, newspaper",Entry,201-1000,UK,3,3,8,662,12,2,2,0,0,4,9,30,19,16
+LEAD_83,jenniferfarrell@example.net,"Bridges, Henry and Johnson",Finance,Health promotion specialist,Mid,51-200,India,2,8,22,313,8,1,1,0,1,4,9,16,53,27
+LEAD_84,meyerslisa@example.com,Odonnell-Charles,Healthcare,"Administrator, education",Executive,1-10,USA,5,6,28,622,19,4,2,0,1,2,5,6,21,26
+LEAD_85,duncanjamie@example.org,Flores-Cummings,Retail,"Surveyor, commercial/residential",Entry,11-50,USA,1,3,37,275,17,4,1,0,0,3,3,70,39,8
+LEAD_86,lfoster@example.net,"Wood, Smith and Thomas",Education,"Lecturer, higher education",Executive,11-50,Germany,2,2,22,420,15,0,2,0,1,1,2,31,45,13
+LEAD_87,scott31@example.net,Jones-Green,Education,Civil Service administrator,Executive,1-10,UK,18,8,7,243,8,3,0,0,1,3,6,23,51,20
+LEAD_88,mpittman@example.net,Roman-Huber,Technology,Solicitor,Senior,1000+,India,9,2,27,195,15,4,0,0,1,1,8,42,38,10
+LEAD_89,tiffany09@example.net,"Green, Ellis and Howell",Education,Chiropractor,Entry,1000+,USA,13,1,37,750,18,2,1,1,1,3,2,3,56,13
+LEAD_90,kayla46@example.net,Davis-Atkinson,Technology,Legal secretary,Senior,1000+,Canada,16,8,17,538,11,2,0,0,1,3,3,21,29,3
+LEAD_91,msmith@example.net,"Anderson, Nguyen and Blankenship",Education,Clinical biochemist,Executive,1-10,India,17,2,19,441,17,3,0,1,0,3,8,11,10,6
+LEAD_92,lisa40@example.com,"Sherman, Allen and Sanders",Retail,Tourist information centre manager,Entry,201-1000,India,2,3,29,482,14,1,2,1,1,3,2,63,20,9
+LEAD_93,owoods@example.net,"Woods, Lee and Allen",Finance,"Conservator, furniture",Mid,51-200,Germany,12,5,31,39,12,3,2,0,1,1,4,32,30,16
+LEAD_94,david85@example.com,"Franklin, Johnson and Stephenson",Healthcare,Museum/gallery conservator,Entry,51-200,Canada,0,5,39,575,2,4,2,0,1,2,0,9,44,4
+LEAD_95,tammyortega@example.net,"Johnson, Smith and Fernandez",Healthcare,Network engineer,Entry,11-50,USA,7,1,2,393,4,2,1,1,0,1,6,96,59,8
+LEAD_96,walter56@example.net,"Williams, Wu and Schwartz",Technology,"Designer, interior/spatial",Entry,11-50,USA,14,3,25,27,19,3,2,1,1,4,4,46,12,10
+LEAD_97,amy62@example.net,Higgins Ltd,Education,Fisheries officer,Executive,1-10,India,7,1,21,474,5,3,1,1,1,4,3,7,8,28
+LEAD_98,lindaroberts@example.net,Conway-Garrett,Healthcare,"Engineer, maintenance (IT)",Mid,201-1000,Canada,6,0,11,716,8,2,1,1,1,1,8,3,14,11
+LEAD_99,coxkenneth@example.com,"Daniel, Allen and Miller",Education,"Surveyor, building",Entry,11-50,India,11,5,39,210,3,2,1,0,0,2,4,41,38,27
+LEAD_100,jessicaramsey@example.org,Holt LLC,Healthcare,"Exhibitions officer, museum/gallery",Entry,11-50,Germany,13,8,8,788,19,3,0,1,1,0,2,81,39,26
+LEAD_101,howardrodriguez@example.com,Randall Ltd,Retail,Educational psychologist,Entry,201-1000,UK,7,7,37,772,13,2,0,0,0,4,7,90,35,21
+LEAD_102,angelajames@example.com,Stone and Sons,Retail,"Surveyor, insurance",Executive,201-1000,India,7,2,9,101,18,1,0,1,0,1,7,52,18,18
+LEAD_103,tgarcia@example.net,"Garza, Moran and Clark",Healthcare,"Nurse, mental health",Senior,1-10,Germany,19,2,16,686,16,1,2,0,0,3,8,118,56,14
+LEAD_104,ryan05@example.org,Gordon Ltd,Retail,"Sales professional, IT",Entry,51-200,UK,19,8,21,757,6,0,1,1,0,4,4,70,31,28
+LEAD_105,jlucas@example.org,"Anderson, Davis and Cobb",Finance,Comptroller,Mid,1000+,UK,4,6,37,443,18,1,2,1,1,1,9,60,15,29
+LEAD_106,dianaburns@example.net,Flores-Mcintosh,Education,Fast food restaurant manager,Mid,51-200,Canada,8,9,17,216,8,4,2,1,0,4,5,80,5,29
+LEAD_107,robert30@example.net,Gomez-Thomas,Finance,Insurance broker,Mid,1000+,USA,11,7,11,102,13,1,0,1,0,2,4,37,44,14
+LEAD_108,ybrown@example.org,Carlson and Sons,Technology,Operational researcher,Entry,201-1000,USA,5,4,8,532,8,3,1,0,1,4,3,112,48,9
+LEAD_109,joan06@example.com,Green-Johnson,Technology,Automotive engineer,Executive,11-50,Germany,11,4,20,702,15,0,2,1,0,4,9,102,15,3
+LEAD_110,jhopkins@example.com,Cummings PLC,Healthcare,"Journalist, magazine",Mid,1000+,USA,14,5,8,588,10,3,0,1,1,4,8,53,50,10
+LEAD_111,sarah03@example.com,"Levine, Park and Ryan",Technology,"Scientist, clinical (histocompatibility and immunogenetics)",Senior,1000+,UK,6,8,29,660,4,2,1,1,0,1,8,25,9,6
+LEAD_112,rosseric@example.org,Goodwin-Gray,Technology,Armed forces technical officer,Mid,51-200,India,13,2,37,210,11,3,0,0,0,4,2,73,16,11
+LEAD_113,krogers@example.org,"Brooks, Mccoy and Eaton",Finance,"Programmer, multimedia",Executive,11-50,USA,15,8,8,516,18,4,2,1,0,2,9,10,53,25
+LEAD_114,breannagregory@example.net,"Curtis, Blankenship and Johnson",Education,Archivist,Senior,1000+,India,10,3,19,222,6,4,1,1,1,1,1,55,47,2
+LEAD_115,mackenzieyork@example.org,Jenkins PLC,Technology,Health and safety inspector,Senior,1-10,USA,17,8,27,390,10,3,1,1,0,1,2,105,29,2
+LEAD_116,shenderson@example.org,Riley-Harris,Technology,Ranger/warden,Mid,1-10,UK,15,7,26,247,7,1,2,0,1,3,0,53,7,21
+LEAD_117,heidi41@example.net,"Jenkins, Nelson and Howard",Retail,Immigration officer,Mid,51-200,Canada,15,6,31,588,6,4,1,0,0,0,0,72,30,20
+LEAD_118,vgray@example.org,Whitaker-Campbell,Education,Sport and exercise psychologist,Executive,51-200,USA,6,2,33,463,2,2,2,0,1,1,8,2,46,24
+LEAD_119,htorres@example.net,"Krueger, Orozco and Wheeler",Healthcare,"Engineer, maintenance",Entry,1-10,India,9,6,13,557,8,3,0,1,1,1,0,71,43,17
+LEAD_120,vickinewman@example.org,"Young, Chavez and Thompson",Education,Brewing technologist,Mid,201-1000,India,4,0,28,759,16,2,1,0,0,2,0,112,36,14
+LEAD_121,traceyrandolph@example.net,"Castillo, Bailey and Robinson",Finance,Farm manager,Executive,1000+,USA,11,8,20,193,11,1,0,1,0,4,5,70,20,7
+LEAD_122,elewis@example.net,Payne Inc,Education,Primary school teacher,Mid,51-200,India,7,1,14,676,5,1,2,0,0,3,6,41,12,4
+LEAD_123,floresstephen@example.com,Small Group,Finance,Magazine journalist,Senior,51-200,Germany,7,9,10,762,15,3,1,0,0,0,2,87,21,4
+LEAD_124,zrobinson@example.com,Carter-Johnson,Technology,Sales promotion account executive,Mid,11-50,Germany,13,4,12,203,15,1,2,1,0,1,9,12,17,25
+LEAD_125,sandralee@example.org,Garza PLC,Finance,Adult guidance worker,Senior,51-200,Germany,6,1,14,486,8,2,2,0,0,2,0,66,27,26
+LEAD_126,creynolds@example.com,"Mckee, Barajas and Grant",Finance,Osteopath,Entry,11-50,USA,17,6,12,332,11,3,2,1,0,4,4,16,16,18
+LEAD_127,vsmith@example.org,Jennings LLC,Healthcare,Operational investment banker,Senior,1-10,UK,19,6,37,667,19,2,1,0,0,4,3,2,55,11
+LEAD_128,wlozano@example.org,Bright-Reynolds,Technology,Dispensing optician,Senior,201-1000,Germany,19,6,2,680,8,0,0,1,1,3,7,105,7,14
+LEAD_129,xjackson@example.net,Barnes Group,Education,Broadcast presenter,Senior,11-50,India,14,7,4,397,14,2,1,1,0,4,2,84,51,20
+LEAD_130,carriekaiser@example.org,"Gonzalez, Hendrix and Conrad",Finance,"Accountant, chartered certified",Executive,11-50,Germany,12,4,34,32,2,3,0,1,0,0,1,110,25,5
+LEAD_131,jeffrey85@example.com,Miranda-Stephens,Technology,"Production designer, theatre/television/film",Mid,1-10,India,18,2,2,695,4,3,2,0,1,4,9,19,21,10
+LEAD_132,bartonjose@example.org,"Keller, Love and Adams",Retail,Accommodation manager,Entry,11-50,USA,11,8,21,721,7,1,1,0,0,0,9,108,10,25
+LEAD_133,blackjustin@example.org,Manning Group,Healthcare,Structural engineer,Entry,11-50,Canada,12,7,33,682,16,2,0,0,1,4,8,14,38,28
+LEAD_134,gmartinez@example.net,"Simmons, Villa and Alvarez",Finance,Quantity surveyor,Senior,51-200,Canada,0,4,33,165,16,4,1,0,0,2,0,99,40,23
+LEAD_135,raykenneth@example.net,Watkins-Payne,Retail,Paramedic,Mid,201-1000,USA,7,5,19,295,18,0,2,0,0,0,0,1,30,15
+LEAD_136,daviddavis@example.com,Hanson-Smith,Education,Mental health nurse,Executive,201-1000,USA,19,4,13,28,2,0,0,1,0,1,1,3,40,16
+LEAD_137,floresmarc@example.org,Smith Ltd,Technology,Ecologist,Executive,11-50,UK,4,8,25,61,9,0,1,0,1,1,5,46,54,7
+LEAD_138,gfisher@example.net,Hill Inc,Healthcare,"Engineer, manufacturing systems",Senior,1-10,Canada,2,5,30,206,10,2,0,1,0,2,4,63,33,16
+LEAD_139,hensondonald@example.net,Merritt LLC,Technology,Consulting civil engineer,Entry,201-1000,India,7,6,19,752,16,4,1,1,0,1,8,90,26,29
+LEAD_140,mhall@example.net,Barrett and Sons,Education,Architectural technologist,Executive,51-200,UK,11,1,15,405,16,3,1,0,1,0,7,12,13,3
+LEAD_141,prattrachel@example.org,"Lopez, Garcia and Beard",Education,Sports development officer,Executive,51-200,Canada,4,1,26,84,15,1,0,0,0,2,6,9,9,28
+LEAD_142,james18@example.org,Miller Ltd,Healthcare,Counsellor,Mid,51-200,UK,2,9,9,401,3,0,0,1,1,1,6,91,46,19
+LEAD_143,jasonmckenzie@example.net,"Smith, Carroll and Garner",Finance,Multimedia programmer,Senior,201-1000,Germany,8,2,5,715,1,3,1,0,1,2,9,105,40,17
+LEAD_144,ashleyramirez@example.org,Lam Inc,Retail,Product designer,Executive,11-50,Germany,7,0,16,686,4,1,2,1,0,1,7,86,7,3
+LEAD_145,patelkimberly@example.com,Clarke-Thompson,Healthcare,Media planner,Executive,51-200,USA,1,5,17,606,19,4,1,0,1,1,0,96,58,18
+LEAD_146,ubrady@example.net,"Anderson, Smith and Rodriguez",Technology,"Designer, industrial/product",Senior,201-1000,India,4,1,10,485,13,0,1,0,0,2,5,90,51,26
+LEAD_147,stephen06@example.org,Patterson-Ruiz,Technology,Clinical research associate,Senior,1-10,India,6,0,22,175,18,2,1,1,0,1,6,51,5,19
+LEAD_148,savannah33@example.org,Marshall Ltd,Healthcare,Field trials officer,Entry,11-50,UK,14,5,1,770,16,3,2,0,1,3,3,95,46,23
+LEAD_149,ncardenas@example.org,"Dickson, Armstrong and Gibbs",Education,Amenity horticulturist,Senior,11-50,Canada,12,7,15,424,8,3,1,1,1,4,0,101,6,6
+LEAD_150,scott87@example.org,Sampson and Sons,Healthcare,Adult guidance worker,Senior,11-50,India,12,4,39,547,1,2,2,1,1,4,1,17,19,2
+LEAD_151,coopercole@example.net,Jones Inc,Healthcare,Public affairs consultant,Mid,1-10,USA,4,4,4,711,11,2,0,1,1,4,6,55,52,8
+LEAD_152,nicoletaylor@example.com,Leblanc-Bailey,Retail,Prison officer,Mid,1-10,USA,9,7,32,696,2,1,0,1,1,2,6,19,27,12
+LEAD_153,ojordan@example.org,Ferguson Group,Education,Data processing manager,Entry,11-50,USA,16,4,2,31,16,0,0,1,0,1,4,98,18,26
+LEAD_154,eblack@example.net,Williams and Sons,Retail,Quantity surveyor,Mid,1-10,Germany,9,5,37,534,10,0,2,0,1,1,2,108,34,23
+LEAD_155,karenbyrd@example.net,"Bright, Villegas and Mccoy",Retail,Production manager,Mid,1-10,Canada,6,3,3,38,2,0,0,1,0,1,6,98,38,12
+LEAD_156,hrocha@example.com,Price-Fox,Healthcare,Science writer,Mid,1-10,Germany,7,2,29,94,19,1,0,1,1,2,6,21,37,11
+LEAD_157,samantha78@example.net,Ramirez and Sons,Retail,Clinical cytogeneticist,Mid,201-1000,USA,6,6,31,761,6,2,0,0,1,0,2,8,27,9
+LEAD_158,inorman@example.org,Wallace Ltd,Finance,Chartered loss adjuster,Executive,11-50,India,16,2,15,191,10,4,2,0,0,0,4,74,32,19
+LEAD_159,anthony99@example.org,Lynch-Reid,Healthcare,Editorial assistant,Mid,51-200,Canada,4,4,5,317,14,1,2,0,0,0,5,43,55,24
+LEAD_160,todd57@example.org,"Arnold, Burns and Mitchell",Retail,Dentist,Senior,1-10,Canada,18,9,1,780,11,0,1,0,0,1,2,11,53,14
+LEAD_161,richard96@example.com,"Peterson, Mcdaniel and Burgess",Retail,Oceanographer,Executive,11-50,Germany,0,7,25,533,14,0,2,0,0,3,4,111,53,3
+LEAD_162,danielpalmer@example.org,"Shelton, Sweeney and Russell",Finance,Research scientist (maths),Entry,201-1000,USA,2,6,17,687,1,0,0,0,1,1,9,115,19,24
+LEAD_163,jleon@example.org,Little-Morris,Education,Operational investment banker,Entry,201-1000,USA,2,7,22,487,13,4,1,0,0,2,2,26,56,28
+LEAD_164,jessica97@example.com,"Jarvis, Wilkins and Meyers",Education,Conference centre manager,Mid,201-1000,Germany,7,6,7,790,10,2,0,0,0,1,6,1,25,28
+LEAD_165,lewisrobin@example.org,"Hill, Vaughn and Dunn",Healthcare,Health visitor,Executive,51-200,Germany,11,3,2,599,14,4,0,0,1,4,6,96,31,28
+LEAD_166,bakerjustin@example.com,Howard Ltd,Retail,Dietitian,Mid,1-10,India,18,1,4,439,15,2,2,0,0,2,3,8,34,25
+LEAD_167,gabriellewilson@example.org,Harris Inc,Education,"Therapist, music",Executive,201-1000,India,4,2,35,260,19,1,1,0,1,1,1,111,48,10
+LEAD_168,michelle55@example.net,"Guerra, Baldwin and Patterson",Finance,"Development worker, community",Mid,1000+,Germany,1,2,22,467,1,4,2,1,1,3,1,60,36,15
+LEAD_169,gonzalezbrian@example.com,"Gutierrez, Curtis and Jensen",Finance,"Biochemist, clinical",Senior,1000+,Germany,19,3,37,162,1,3,0,1,1,2,5,108,34,20
+LEAD_170,ochoajennifer@example.com,"Glass, Jones and Friedman",Retail,Translator,Senior,1-10,USA,11,0,16,452,4,0,1,0,1,2,6,117,20,9
+LEAD_171,gedwards@example.org,"Campbell, Rodgers and Lewis",Education,Event organiser,Entry,1-10,USA,3,5,32,363,9,0,0,1,0,0,9,15,45,25
+LEAD_172,william36@example.com,"Jackson, House and Smith",Healthcare,"Engineer, water",Mid,1000+,USA,8,2,15,357,19,4,1,0,1,3,5,39,34,8
+LEAD_173,nicolas27@example.net,"Perez, Hernandez and Alvarez",Education,"Editor, commissioning",Senior,201-1000,UK,0,9,16,273,13,0,1,1,0,3,1,77,19,25
+LEAD_174,edward86@example.com,Scott Group,Retail,"Engineer, building services",Mid,1000+,Canada,1,7,7,95,12,0,1,1,0,1,9,3,32,4
+LEAD_175,jennifer80@example.net,"Bishop, Murphy and Gonzalez",Retail,Visual merchandiser,Entry,1-10,USA,12,9,20,164,6,3,1,1,1,1,1,77,8,17
+LEAD_176,zholmes@example.net,Hutchinson Ltd,Healthcare,"Accountant, chartered public finance",Mid,51-200,Canada,13,0,5,364,2,1,2,1,0,2,1,28,14,22
+LEAD_177,johnbray@example.net,Delgado PLC,Technology,Ship broker,Mid,11-50,UK,10,3,16,112,5,1,0,1,0,1,0,83,17,29
+LEAD_178,murphyjerome@example.com,Davis-Kelly,Finance,Patent attorney,Mid,11-50,India,8,3,25,76,17,0,0,0,0,3,1,113,10,23
+LEAD_179,georgenolan@example.net,Kim-Lynch,Healthcare,Database administrator,Entry,51-200,India,18,4,20,20,2,0,0,1,0,1,7,64,52,29
+LEAD_180,bauercharles@example.org,Smith Inc,Finance,Legal secretary,Senior,201-1000,UK,12,3,35,721,1,3,1,0,1,3,2,111,39,8
+LEAD_181,ivanthompson@example.org,"Roberson, Stout and Green",Technology,Legal secretary,Senior,11-50,Germany,12,9,13,516,7,0,0,1,0,4,3,5,49,24
+LEAD_182,bberger@example.org,"Mclaughlin, Ruiz and Robinson",Education,"Surveyor, building control",Executive,51-200,India,9,0,34,342,14,3,2,1,0,1,1,92,17,22
+LEAD_183,zpeters@example.com,Murphy PLC,Healthcare,Clinical biochemist,Senior,1000+,UK,14,8,16,707,18,4,2,0,1,3,6,77,17,12
+LEAD_184,rodriguezhannah@example.net,Taylor-Rowe,Technology,Physiological scientist,Mid,1000+,USA,19,3,17,32,9,0,1,1,0,1,4,33,13,17
+LEAD_185,ashley48@example.net,"Cox, Smith and Pham",Education,Chief Executive Officer,Entry,1-10,India,5,1,19,205,12,4,0,0,1,0,9,92,31,17
+LEAD_186,anthony14@example.net,Mason PLC,Healthcare,"Engineer, automotive",Senior,1-10,Germany,13,2,31,686,1,2,2,0,0,0,9,108,34,16
+LEAD_187,knguyen@example.org,Summers-Barnett,Education,Ophthalmologist,Senior,1000+,USA,8,7,8,454,6,3,0,1,1,3,2,72,43,28
+LEAD_188,elizabethgomez@example.com,Farley-Rodriguez,Education,Lawyer,Executive,51-200,Germany,12,6,17,495,12,0,2,1,1,0,9,99,16,12
+LEAD_189,chodge@example.net,"Hamilton, Hicks and Johnson",Retail,Publishing rights manager,Executive,1000+,UK,13,1,11,438,1,1,0,0,1,3,0,62,13,7
+LEAD_190,tyler62@example.com,Gonzalez PLC,Healthcare,Public house manager,Entry,1000+,India,14,8,24,235,17,2,1,1,0,0,2,19,39,22
+LEAD_191,briggsryan@example.net,Howard-Martinez,Finance,Retail banker,Mid,1-10,UK,16,8,12,252,4,0,2,0,0,3,1,26,15,10
+LEAD_192,youngharold@example.org,Shaw LLC,Education,Clinical molecular geneticist,Entry,1-10,USA,11,8,2,464,18,0,2,1,1,4,2,84,58,21
+LEAD_193,jeffrey36@example.com,Nelson-Mccullough,Education,"Teacher, secondary school",Entry,11-50,India,6,6,1,232,4,4,1,0,1,0,9,75,5,11
+LEAD_194,michael76@example.com,Best-Ford,Healthcare,Environmental consultant,Executive,11-50,UK,11,1,13,260,6,0,0,0,1,1,3,93,46,2
+LEAD_195,amandadunlap@example.org,"Johnson, Owens and Love",Healthcare,Social researcher,Executive,11-50,Canada,3,3,11,118,2,3,1,0,1,2,5,54,59,9
+LEAD_196,ywong@example.net,"Wilkins, Harrison and Miller",Finance,"Doctor, hospital",Entry,11-50,UK,6,7,29,349,3,1,0,0,0,2,6,82,54,18
+LEAD_197,uscott@example.com,Lopez-Evans,Education,"Designer, graphic",Executive,1-10,Canada,9,3,32,118,10,2,1,1,1,3,9,57,59,16
+LEAD_198,colleen98@example.com,Murphy Group,Technology,Further education lecturer,Entry,1-10,USA,7,4,3,93,14,3,0,1,1,0,5,67,23,19
+LEAD_199,hkelly@example.net,Roberts Group,Technology,"Production assistant, radio",Senior,51-200,Germany,8,3,25,279,10,3,2,1,0,1,7,28,48,21
+LEAD_200,mharris@example.net,"Taylor, Torres and Carey",Finance,Careers information officer,Executive,1000+,UK,0,0,25,503,11,3,2,1,1,1,9,105,48,10
+LEAD_201,isaac30@example.net,Barnes-Merritt,Technology,Chief of Staff,Mid,1000+,Germany,0,9,1,460,1,0,2,1,0,2,9,74,36,18
+LEAD_202,pennysmith@example.org,"Marquez, Mason and Carson",Retail,"Engineer, energy",Mid,1-10,Canada,0,4,32,496,7,1,0,0,0,0,7,17,48,15
+LEAD_203,richardmelendez@example.org,"Adams, Mitchell and Smith",Retail,Amenity horticulturist,Mid,11-50,Germany,0,1,38,234,8,3,1,0,0,2,5,96,45,16
+LEAD_204,wnelson@example.net,"Williams, Wilson and Khan",Healthcare,"Scientist, biomedical",Mid,1-10,UK,4,5,19,261,12,4,1,1,0,3,1,90,41,8
+LEAD_205,hendersonkathleen@example.net,"Cross, Anderson and Johnson",Education,Theatre stage manager,Senior,1000+,Germany,14,6,30,247,2,0,1,1,1,4,7,112,59,4
+LEAD_206,chavezjennifer@example.org,"Palmer, James and Miller",Education,Investment analyst,Mid,51-200,Germany,9,6,21,626,12,0,2,1,1,1,8,36,20,9
+LEAD_207,gordonlong@example.com,Jones-Pearson,Finance,Colour technologist,Senior,11-50,Germany,16,2,17,466,3,4,1,1,1,3,2,84,36,24
+LEAD_208,staylor@example.net,Walters-Rodriguez,Retail,"Pharmacist, community",Mid,1-10,UK,10,2,34,233,18,1,2,1,1,4,5,116,26,4
+LEAD_209,hrangel@example.com,Morris Group,Healthcare,Site engineer,Executive,11-50,Canada,18,4,35,144,8,1,2,1,1,3,3,73,48,28
+LEAD_210,milleraustin@example.com,Fletcher Group,Retail,"Lecturer, further education",Senior,201-1000,Germany,9,8,33,538,1,2,1,1,0,4,8,40,5,17
+LEAD_211,dhiggins@example.net,Owens and Sons,Technology,"Surveyor, commercial/residential",Mid,1000+,USA,18,0,19,163,16,4,1,1,1,3,7,85,21,13
+LEAD_212,gnelson@example.org,"Chang, Bradford and Green",Healthcare,Orthoptist,Mid,51-200,UK,7,8,8,207,13,0,1,0,1,1,7,77,24,5
+LEAD_213,alexandermason@example.net,Garner-Williams,Healthcare,Applications developer,Senior,201-1000,UK,2,0,1,442,12,4,1,1,1,3,3,70,8,12
+LEAD_214,annetteandrews@example.org,Lewis Inc,Healthcare,Civil Service fast streamer,Senior,51-200,USA,16,2,15,49,13,2,2,1,1,1,7,66,37,19
+LEAD_215,ambersmith@example.org,Clark Inc,Healthcare,Insurance claims handler,Senior,201-1000,UK,1,2,38,57,5,0,2,0,0,4,6,74,54,29
+LEAD_216,nmendez@example.net,Vega Group,Education,Bonds trader,Executive,1000+,India,1,9,20,529,18,1,0,1,0,2,9,117,20,27
+LEAD_217,erussell@example.com,Ward PLC,Finance,"Psychotherapist, child",Entry,1-10,UK,4,0,3,711,11,1,1,0,0,4,4,53,52,17
+LEAD_218,cperez@example.com,Kent-Lara,Retail,Research scientist (maths),Executive,11-50,USA,19,4,8,659,11,2,1,1,0,1,8,31,9,21
+LEAD_219,anthonyhernandez@example.com,Weaver-Perry,Technology,Ranger/warden,Entry,1-10,Canada,11,3,24,627,7,0,1,1,0,0,2,26,30,26
+LEAD_220,huntkevin@example.net,Vazquez-Chapman,Finance,"Scientist, marine",Mid,11-50,Germany,5,0,21,396,14,1,1,0,0,1,1,80,22,23
+LEAD_221,econley@example.org,Lamb-Weaver,Education,"Research officer, trade union",Executive,1-10,Canada,2,6,14,503,14,2,2,0,0,2,1,71,5,21
+LEAD_222,jmorrison@example.com,"Chandler, Miller and Mosley",Retail,"Designer, multimedia",Senior,1-10,Germany,3,4,8,245,11,1,1,0,0,1,2,58,7,9
+LEAD_223,qsanders@example.org,Herrera Ltd,Retail,Broadcast engineer,Executive,1000+,Canada,4,7,16,429,7,4,1,0,1,1,2,64,21,19
+LEAD_224,terri25@example.org,Miller-Walker,Retail,Glass blower/designer,Senior,1-10,UK,14,4,5,308,1,1,0,0,0,1,3,13,18,13
+LEAD_225,leahparker@example.com,Mays PLC,Retail,"Production assistant, radio",Entry,1000+,UK,12,5,1,171,13,4,0,0,1,4,2,73,47,25
+LEAD_226,ortegaalexander@example.com,"Maldonado, Gallagher and Mcfarland",Healthcare,Commercial art gallery manager,Entry,1000+,India,19,1,10,588,7,4,0,1,0,2,3,69,32,11
+LEAD_227,ashleywashington@example.org,"Black, Thomas and Young",Finance,Tourism officer,Senior,201-1000,Germany,2,2,3,597,1,3,2,0,0,4,4,8,42,24
+LEAD_228,smithjacqueline@example.com,"Mckee, Maldonado and Wilson",Healthcare,"Education officer, museum",Senior,51-200,UK,6,8,13,31,4,4,0,0,1,1,8,30,44,1
+LEAD_229,peterlin@example.org,Moss-Sullivan,Education,Geographical information systems officer,Entry,51-200,USA,17,3,34,87,3,4,0,0,0,2,6,27,47,9
+LEAD_230,reederic@example.net,Walker-Turner,Finance,Futures trader,Executive,201-1000,India,0,7,31,295,16,1,2,1,0,4,9,116,24,25
+LEAD_231,warrenkrystal@example.net,Grant-Martin,Technology,Photographer,Mid,1-10,Germany,13,5,4,788,13,4,2,0,0,2,6,110,38,24
+LEAD_232,matthew58@example.com,Thompson Inc,Retail,Advertising copywriter,Executive,201-1000,USA,1,5,5,242,4,2,2,1,1,4,1,19,54,17
+LEAD_233,newtonmargaret@example.net,"Lee, Clark and Jordan",Technology,Barista,Mid,51-200,India,8,3,33,109,14,3,2,0,0,3,7,53,28,13
+LEAD_234,wrightwendy@example.com,Wiggins-Douglas,Healthcare,"Scientist, marine",Executive,1-10,Canada,2,9,2,772,7,3,0,0,0,1,3,110,51,16
+LEAD_235,jmorgan@example.com,Patel Inc,Technology,Chartered loss adjuster,Mid,201-1000,India,4,5,34,675,7,1,1,0,0,0,6,36,15,6
+LEAD_236,lowen@example.org,Parker-Thomas,Healthcare,"Designer, exhibition/display",Mid,51-200,UK,15,5,28,186,5,2,1,1,0,1,0,79,57,19
+LEAD_237,nicole42@example.net,"Elliott, Soto and Shaw",Retail,Data processing manager,Executive,51-200,India,0,1,36,180,8,2,0,0,1,2,1,102,59,3
+LEAD_238,karen30@example.com,English Inc,Healthcare,Health and safety inspector,Senior,51-200,Germany,7,9,14,101,14,0,0,0,0,4,1,100,41,2
+LEAD_239,brandonjohnson@example.net,Romero-Whitney,Healthcare,Diplomatic Services operational officer,Mid,51-200,UK,5,8,36,475,16,2,2,1,0,1,1,70,55,19
+LEAD_240,tuckerlauren@example.org,"Mitchell, Odom and Rivera",Healthcare,Records manager,Executive,1-10,Canada,16,3,18,752,3,3,2,1,1,0,0,45,12,19
+LEAD_241,deborahhurley@example.net,Ray-Perry,Finance,"Designer, furniture",Executive,11-50,India,12,3,30,520,18,2,0,1,0,2,7,7,38,15
+LEAD_242,longsarah@example.com,"Smith, Huff and Smith",Education,Records manager,Senior,1000+,India,14,3,22,609,11,0,0,0,1,0,4,85,35,18
+LEAD_243,vbrown@example.net,"Saunders, Wright and Powell",Healthcare,Chiropodist,Senior,51-200,UK,11,3,34,354,7,2,2,1,1,2,2,114,54,22
+LEAD_244,lisanixon@example.com,Patterson-Mendoza,Finance,Lexicographer,Mid,51-200,Germany,15,4,19,741,7,2,0,0,1,2,5,112,53,3
+LEAD_245,ebaker@example.net,Johnson-Wheeler,Technology,"Designer, ceramics/pottery",Entry,51-200,Germany,6,6,29,665,16,1,2,1,0,4,0,10,9,3
+LEAD_246,mendezcody@example.net,Duncan LLC,Finance,Haematologist,Executive,51-200,Canada,2,7,8,785,6,0,0,0,1,1,3,83,48,20
+LEAD_247,larsonteresa@example.com,Bryant and Sons,Healthcare,"Administrator, education",Mid,1-10,Canada,19,7,25,607,11,2,2,0,1,2,5,111,5,9
+LEAD_248,perezmark@example.com,"Jones, Foster and Leon",Finance,Outdoor activities/education manager,Executive,1-10,USA,4,3,0,514,11,1,2,1,1,0,6,105,5,22
+LEAD_249,melissa19@example.net,Perry Ltd,Healthcare,Radiation protection practitioner,Executive,11-50,Canada,19,3,26,543,13,1,0,0,0,3,3,10,35,14
+LEAD_250,brianbean@example.net,"Eaton, Cox and Oliver",Finance,"Surveyor, quantity",Entry,51-200,Canada,7,3,14,142,15,1,0,0,0,1,0,89,29,28
+LEAD_251,williamsmarie@example.org,Golden-Johnson,Technology,Ceramics designer,Mid,1000+,Canada,9,3,38,325,7,1,2,1,1,0,0,19,51,3
+LEAD_252,toddbailey@example.net,Cooper-Brown,Finance,Emergency planning/management officer,Senior,11-50,Germany,4,8,13,772,17,2,0,1,1,2,4,62,10,28
+LEAD_253,robert08@example.org,Soto LLC,Retail,"Surveyor, building control",Mid,1-10,Canada,13,5,36,89,1,0,2,0,0,3,1,16,6,9
+LEAD_254,ywilliams@example.net,Lopez Ltd,Education,"Nurse, learning disability",Mid,201-1000,India,12,9,25,24,12,2,2,0,0,1,6,1,16,20
+LEAD_255,coltongarza@example.org,Lewis-Nicholson,Healthcare,Medical illustrator,Entry,11-50,USA,7,8,22,331,19,2,2,0,0,0,8,112,56,25
+LEAD_256,latasha86@example.org,"Turner, Merritt and Sharp",Education,"Chemist, analytical",Mid,11-50,Canada,15,9,5,87,8,3,0,0,0,4,8,110,57,8
+LEAD_257,lovekatherine@example.com,Pineda Group,Education,Financial manager,Entry,1-10,Canada,6,2,9,519,3,3,1,1,1,1,9,5,8,4
+LEAD_258,qbrown@example.net,Wilkerson Inc,Healthcare,"Teacher, primary school",Executive,51-200,USA,6,9,14,237,3,3,1,1,0,1,3,113,34,25
+LEAD_259,david09@example.com,White-Velazquez,Finance,Operations geologist,Entry,11-50,India,18,7,11,363,6,4,0,1,1,3,8,114,41,5
+LEAD_260,jramirez@example.net,Lopez Group,Finance,Agricultural engineer,Mid,1000+,Germany,14,6,26,486,6,0,2,0,0,1,3,2,50,6
+LEAD_261,daltonbarajas@example.com,Nguyen Inc,Healthcare,Charity officer,Senior,51-200,India,2,5,26,367,15,1,1,0,0,1,3,61,41,21
+LEAD_262,amy67@example.net,"Graves, Miller and Stuart",Retail,Soil scientist,Mid,1-10,UK,11,5,35,256,4,2,1,1,1,4,9,26,48,11
+LEAD_263,lopezanthony@example.net,Fernandez-Hardy,Finance,Community education officer,Executive,11-50,Canada,2,4,13,671,11,3,1,0,1,4,1,71,23,3
+LEAD_264,milleranthony@example.org,"Robertson, Sanchez and Griffin",Education,Health visitor,Senior,1000+,UK,6,8,8,546,18,0,2,1,0,1,3,37,6,10
+LEAD_265,stephanienorris@example.org,King-Webb,Education,Product manager,Entry,1000+,India,2,5,14,503,7,1,2,1,0,3,5,88,26,9
+LEAD_266,larakathy@example.com,Myers-Young,Healthcare,Radio producer,Mid,1000+,UK,3,0,8,76,14,4,2,0,1,3,9,12,44,17
+LEAD_267,kylelindsey@example.org,"Santos, Ayers and Bryant",Finance,Financial risk analyst,Entry,51-200,USA,1,1,9,375,1,2,1,1,1,4,6,95,12,14
+LEAD_268,joshua64@example.org,Brown-Robinson,Finance,Marine scientist,Executive,1-10,India,14,5,34,127,15,4,2,0,0,4,9,98,29,27
+LEAD_269,samantha00@example.net,Martinez-Turner,Healthcare,Orthoptist,Mid,11-50,Canada,9,1,32,494,6,4,0,0,1,3,7,94,10,16
+LEAD_270,qprice@example.com,Baxter-Williams,Technology,"Pharmacist, community",Mid,201-1000,Germany,18,8,24,363,7,2,1,0,1,0,5,99,11,24
+LEAD_271,fisherapril@example.net,"Kane, Garrett and Price",Healthcare,Facilities manager,Executive,201-1000,USA,15,0,32,431,18,2,2,0,0,3,8,55,56,11
+LEAD_272,kevin40@example.net,"Kaufman, Rodgers and Rojas",Finance,"Designer, interior/spatial",Entry,11-50,Canada,0,0,35,375,6,2,2,0,0,0,6,108,32,22
+LEAD_273,danaglover@example.org,Anderson Ltd,Education,Environmental manager,Executive,201-1000,UK,9,8,35,658,2,2,1,1,1,1,3,58,20,18
+LEAD_274,uhobbs@example.org,Wong-Greene,Healthcare,Careers adviser,Entry,201-1000,India,1,3,20,552,6,3,1,0,1,3,1,66,54,3
+LEAD_275,suttonmelvin@example.org,Rodriguez LLC,Finance,Counsellor,Executive,11-50,USA,17,1,27,108,10,1,0,1,0,0,3,97,52,25
+LEAD_276,ihawkins@example.org,Johnson Group,Finance,Chief of Staff,Mid,201-1000,Canada,7,5,4,622,2,3,2,0,0,4,3,6,52,11
+LEAD_277,sharpjoseph@example.com,"Nichols, Holland and Thompson",Education,Science writer,Executive,51-200,Canada,0,5,5,687,8,4,2,0,0,3,7,27,29,7
+LEAD_278,rasmussenlisa@example.net,"Mason, Stewart and Drake",Healthcare,Financial risk analyst,Entry,1000+,India,13,2,11,611,8,1,2,1,0,4,3,61,27,28
+LEAD_279,adamwood@example.net,Martinez-Jenkins,Education,"Scientist, product/process development",Senior,1-10,Canada,17,6,26,570,14,4,0,1,0,0,2,109,49,3
+LEAD_280,sheena53@example.org,Sheppard-Wiggins,Retail,Surgeon,Entry,1-10,India,4,4,4,235,4,1,2,1,1,1,8,79,43,24
+LEAD_281,carolferguson@example.com,Taylor PLC,Finance,"Surveyor, quantity",Senior,51-200,UK,6,8,6,708,17,3,2,0,0,1,2,108,57,6
+LEAD_282,jennifer30@example.com,Fleming and Sons,Retail,Town planner,Mid,201-1000,Canada,9,1,5,662,7,2,1,1,1,1,4,36,40,18
+LEAD_283,stacylewis@example.org,Mata-Erickson,Education,Drilling engineer,Entry,11-50,UK,10,2,22,472,8,4,1,0,0,3,2,29,14,13
+LEAD_284,wyoung@example.org,"Sullivan, Burns and Williams",Education,"Engineer, energy",Senior,11-50,UK,15,0,24,511,17,2,0,1,0,3,4,74,59,13
+LEAD_285,whitneyward@example.com,Gonzales and Sons,Technology,Legal secretary,Entry,1-10,Canada,3,9,12,358,8,0,0,1,0,1,6,43,8,3
+LEAD_286,kevindavis@example.com,"Mendoza, Miller and Valencia",Technology,Retail manager,Mid,11-50,Germany,19,1,23,294,12,0,0,1,1,3,9,98,55,10
+LEAD_287,melissaparker@example.com,Jones-Hoover,Education,"Scientist, clinical (histocompatibility and immunogenetics)",Senior,1000+,India,0,1,20,581,7,2,1,0,0,3,3,101,8,16
+LEAD_288,amclaughlin@example.com,Hamilton-Romero,Retail,Geographical information systems officer,Executive,51-200,USA,13,8,3,503,13,2,1,0,1,1,3,112,38,29
+LEAD_289,franklinlinda@example.com,Schultz and Sons,Education,"Surveyor, minerals",Entry,1000+,India,2,9,16,128,12,3,0,0,0,3,8,12,8,15
+LEAD_290,anthonybradley@example.net,Fisher-Zavala,Technology,Agricultural engineer,Mid,51-200,UK,9,1,18,724,4,3,0,0,0,4,7,31,32,26
+LEAD_291,dean59@example.com,Jacobson-Banks,Education,"Psychologist, sport and exercise",Entry,201-1000,Canada,18,0,10,302,10,2,2,0,1,2,4,49,45,15
+LEAD_292,pstone@example.org,Miller-Lewis,Technology,Fast food restaurant manager,Executive,51-200,Germany,2,8,33,156,10,0,1,0,0,4,8,85,8,17
+LEAD_293,veronicageorge@example.com,"Stewart, Dixon and Clark",Technology,Environmental consultant,Entry,51-200,Germany,10,0,23,473,18,2,1,0,1,3,7,20,59,22
+LEAD_294,dylan69@example.net,Harris Ltd,Retail,Physiotherapist,Executive,51-200,India,4,3,28,66,14,1,0,1,0,2,7,64,35,7
+LEAD_295,wongmonica@example.org,"Blair, Valenzuela and Pierce",Education,Music tutor,Mid,11-50,Germany,6,5,10,326,17,0,0,1,1,1,4,70,56,3
+LEAD_296,baileyalexander@example.com,Wiggins Ltd,Education,Data processing manager,Mid,51-200,India,2,1,11,343,14,0,1,0,1,1,3,103,15,17
+LEAD_297,hclark@example.com,Fry-Hogan,Education,Health and safety inspector,Entry,11-50,India,3,6,4,525,19,1,2,1,0,4,4,69,29,13
+LEAD_298,faulknerregina@example.net,Cooper Inc,Finance,Quality manager,Senior,51-200,Canada,0,0,32,593,18,4,1,0,0,1,7,27,26,19
+LEAD_299,laurendominguez@example.com,Smith-Black,Finance,"Designer, ceramics/pottery",Senior,1-10,USA,14,4,27,207,3,4,2,0,0,0,1,75,28,27
+LEAD_300,hectorreed@example.net,Cantu-Thomas,Technology,Retail manager,Executive,1-10,USA,10,2,5,416,11,3,1,1,0,0,8,78,22,1
+LEAD_301,david25@example.com,Garcia-Cole,Retail,Intelligence analyst,Entry,201-1000,India,5,1,9,676,19,0,2,1,1,0,4,64,53,12
+LEAD_302,hannahhill@example.com,Jackson PLC,Finance,Editorial assistant,Entry,51-200,India,17,8,0,562,9,3,0,1,0,0,4,2,52,25
+LEAD_303,anthonyball@example.net,Wells-Potter,Education,"Development worker, international aid",Entry,51-200,Germany,15,9,37,448,7,3,0,1,0,2,6,9,52,20
+LEAD_304,kellywilliams@example.org,Thornton PLC,Finance,Chiropodist,Executive,1-10,UK,5,7,15,112,12,0,0,1,1,4,3,61,13,26
+LEAD_305,jamie91@example.com,Nguyen Group,Retail,Research scientist (maths),Mid,11-50,India,0,7,23,98,12,2,0,0,1,4,4,31,32,17
+LEAD_306,shannoncourtney@example.com,"Petersen, Miller and Hill",Finance,Company secretary,Senior,1000+,India,15,4,5,213,18,4,2,0,0,4,4,36,11,29
+LEAD_307,davidsonlaurie@example.net,Love Group,Healthcare,Neurosurgeon,Entry,11-50,USA,16,0,31,302,9,0,2,0,0,1,1,65,52,18
+LEAD_308,jenniferbrooks@example.com,"Dorsey, Moore and Smith",Retail,Administrator,Executive,1-10,India,10,5,13,167,7,0,1,0,0,0,6,6,17,21
+LEAD_309,sandramays@example.net,Swanson Group,Technology,Music tutor,Entry,51-200,India,1,3,9,675,13,4,1,0,1,2,0,89,56,8
+LEAD_310,mstevens@example.org,Lopez and Sons,Healthcare,Public affairs consultant,Executive,1-10,Canada,5,6,9,281,16,1,1,0,0,3,4,21,17,23
+LEAD_311,heather97@example.org,Gillespie-Kim,Finance,"Surveyor, building",Senior,51-200,India,10,1,13,314,10,2,2,1,0,4,1,101,12,13
+LEAD_312,brownalec@example.net,"Brown, Gonzales and Velez",Healthcare,"Designer, textile",Senior,11-50,Germany,7,9,24,575,13,4,0,1,0,4,1,20,9,23
+LEAD_313,smithronald@example.org,Cruz-Hall,Retail,Psychiatric nurse,Entry,11-50,India,11,8,13,734,16,1,1,1,0,3,9,5,57,7
+LEAD_314,kristen33@example.net,Key-Porter,Education,"Programmer, applications",Executive,1000+,India,0,3,5,448,15,0,1,1,1,3,8,57,38,20
+LEAD_315,gmurphy@example.org,"Higgins, Sandoval and Callahan",Retail,Geographical information systems officer,Senior,1-10,Germany,15,9,24,444,1,0,0,0,0,2,7,52,14,1
+LEAD_316,douglas96@example.com,Wood-Russell,Technology,Associate Professor,Mid,1000+,India,12,9,15,474,14,0,2,1,0,4,0,99,50,19
+LEAD_317,jasonbennett@example.org,Wells Inc,Technology,Amenity horticulturist,Executive,1-10,Canada,12,1,13,67,14,0,1,1,0,0,8,9,15,25
+LEAD_318,rnelson@example.org,Thornton-Ryan,Finance,Bookseller,Executive,51-200,USA,9,8,12,197,19,4,2,0,1,4,9,45,10,6
+LEAD_319,gtrevino@example.com,Ellis-Torres,Technology,Radiation protection practitioner,Mid,51-200,UK,19,0,15,486,1,3,1,0,0,0,1,43,45,8
+LEAD_320,sford@example.com,"Figueroa, Dunn and Trujillo",Healthcare,Armed forces training and education officer,Mid,51-200,UK,10,3,36,275,6,1,1,0,1,1,5,34,39,7
+LEAD_321,ystewart@example.com,"Golden, Smith and Davis",Technology,Quality manager,Entry,1-10,UK,7,8,27,31,17,3,1,1,1,4,5,80,11,1
+LEAD_322,hsmith@example.org,Proctor-Jackson,Healthcare,Minerals surveyor,Executive,1-10,Canada,17,1,2,501,9,2,0,1,0,1,3,32,35,28
+LEAD_323,zmurphy@example.com,"Harper, Gonzalez and Flores",Healthcare,"Engineer, electronics",Executive,201-1000,Canada,11,7,23,415,12,0,2,1,1,4,9,47,51,5
+LEAD_324,gibsonemily@example.com,"Smith, Maldonado and Daniels",Education,Futures trader,Mid,1-10,Canada,13,3,29,258,15,4,0,0,0,1,7,107,35,24
+LEAD_325,perkinsamy@example.net,Morris LLC,Technology,"Designer, fashion/clothing",Senior,11-50,Canada,3,6,26,225,17,3,2,0,0,0,5,42,54,10
+LEAD_326,michaelmckay@example.com,Rivera PLC,Finance,"Administrator, education",Entry,201-1000,USA,3,8,36,564,6,1,1,0,0,1,6,100,8,7
+LEAD_327,kbrooks@example.net,Brown Inc,Technology,Further education lecturer,Executive,51-200,Germany,8,9,29,446,4,2,0,0,0,4,7,68,12,11
+LEAD_328,dustinhunt@example.com,Sanchez-Blackwell,Retail,"Nurse, learning disability",Entry,1-10,Germany,17,8,14,387,4,2,2,0,1,2,9,67,23,5
+LEAD_329,kimlawrence@example.org,"Mccoy, Wilson and Robinson",Technology,Records manager,Senior,1-10,Germany,2,3,7,603,13,3,1,1,0,3,2,106,55,10
+LEAD_330,sherrydixon@example.org,Davis-Cruz,Technology,Dealer,Mid,51-200,Canada,0,4,25,578,14,3,0,0,0,3,0,35,8,7
+LEAD_331,alexwiggins@example.net,Anderson and Sons,Finance,Paediatric nurse,Senior,1-10,India,4,0,2,135,14,0,1,1,0,4,4,6,7,28
+LEAD_332,jefferyrodriguez@example.net,Bowman Group,Education,"Surveyor, mining",Executive,201-1000,USA,9,8,3,686,18,0,1,0,0,0,8,75,12,10
+LEAD_333,haneychristopher@example.org,"Nichols, Leon and White",Finance,Food technologist,Entry,1000+,USA,8,3,3,134,2,3,1,0,1,0,8,62,5,24
+LEAD_334,johnnymoses@example.com,Hall Group,Retail,Sports coach,Entry,1000+,Canada,3,9,25,666,12,1,0,0,0,3,7,95,43,16
+LEAD_335,clarkwesley@example.org,Roberts-Booth,Education,Chiropodist,Mid,1-10,UK,18,2,25,641,2,3,1,1,1,4,3,98,57,16
+LEAD_336,ubrown@example.com,"Adams, Jackson and Frazier",Retail,Marketing executive,Senior,1000+,UK,4,0,20,795,7,2,1,1,0,2,5,29,24,25
+LEAD_337,janice41@example.net,Chavez-Lewis,Healthcare,Waste management officer,Executive,201-1000,USA,7,8,28,414,13,4,2,0,0,3,6,108,47,21
+LEAD_338,ohart@example.org,"Baker, Allen and Cohen",Healthcare,Toxicologist,Senior,1000+,India,17,0,15,714,19,1,1,1,0,4,8,115,19,20
+LEAD_339,ajackson@example.org,Perkins and Sons,Finance,"Therapist, drama",Entry,1-10,USA,18,5,38,370,10,2,0,0,0,1,2,27,54,27
+LEAD_340,morrislisa@example.org,Johnson-Brown,Retail,Oncologist,Senior,1000+,USA,7,5,18,205,9,3,2,0,1,1,5,54,39,2
+LEAD_341,martineznathan@example.net,Perry PLC,Technology,Travel agency manager,Senior,51-200,Germany,6,3,39,109,8,0,1,1,0,1,4,110,12,16
+LEAD_342,ericakennedy@example.com,"Robertson, Ross and Thomas",Retail,Electrical engineer,Executive,1000+,Canada,6,2,13,423,19,1,1,0,0,1,8,44,50,15
+LEAD_343,taylor91@example.org,Garcia-Beasley,Education,Advertising account planner,Mid,51-200,Canada,12,3,26,550,1,2,0,1,1,0,4,52,48,19
+LEAD_344,troyjones@example.com,"Cohen, Chung and Joseph",Retail,"Teacher, early years/pre",Executive,1000+,USA,19,0,14,729,15,4,2,1,0,0,6,96,9,13
+LEAD_345,gutierrezmargaret@example.org,Williams Group,Healthcare,Teaching laboratory technician,Senior,1000+,Canada,13,6,35,422,10,1,0,0,0,3,8,15,8,27
+LEAD_346,davidmurray@example.net,Reyes Ltd,Education,"Designer, multimedia",Senior,201-1000,India,12,4,4,392,4,2,2,1,0,1,0,46,18,1
+LEAD_347,jameshernandez@example.net,Higgins-Cuevas,Finance,Horticultural therapist,Mid,1000+,UK,17,3,7,34,5,2,2,1,1,4,7,92,45,24
+LEAD_348,tatecynthia@example.com,"Howard, Cooper and Wood",Healthcare,"Therapist, speech and language",Mid,1000+,USA,8,1,22,71,9,4,1,0,1,4,3,82,7,13
+LEAD_349,zcampbell@example.net,"Palmer, Villarreal and White",Finance,Community pharmacist,Executive,1000+,USA,18,6,22,684,14,0,1,1,0,4,9,39,14,13
+LEAD_350,toddmurray@example.org,Allison Ltd,Healthcare,"Conservation officer, nature",Mid,51-200,UK,18,8,20,618,8,3,0,1,1,0,5,116,57,29
+LEAD_351,washingtonadrian@example.org,"Sexton, Lopez and Hernandez",Finance,Animator,Mid,11-50,India,5,8,14,376,19,1,2,0,1,2,5,64,11,28
+LEAD_352,theresatownsend@example.net,Gibson Inc,Finance,Trade mark attorney,Entry,51-200,USA,15,2,22,502,1,0,0,1,1,0,0,67,45,25
+LEAD_353,myerskevin@example.com,Hill Group,Finance,Intelligence analyst,Mid,201-1000,Canada,0,4,26,393,5,3,1,0,1,2,1,87,14,18
+LEAD_354,marcus18@example.net,Hahn PLC,Retail,Proofreader,Entry,201-1000,UK,16,2,10,683,5,2,1,1,1,3,2,58,35,22
+LEAD_355,crawfordjennifer@example.org,Calderon-Reid,Healthcare,Estate agent,Entry,1000+,India,8,9,25,215,11,1,2,1,0,3,0,88,12,11
+LEAD_356,hallpaul@example.com,Sandoval Inc,Healthcare,Sports therapist,Senior,201-1000,UK,11,8,7,770,3,0,2,0,1,3,7,14,23,24
+LEAD_357,meaganwatson@example.net,"Smith, Williams and Vasquez",Retail,"Accountant, chartered management",Mid,201-1000,USA,15,4,3,384,3,3,1,1,0,3,4,88,28,15
+LEAD_358,lgray@example.net,Mcdaniel Ltd,Retail,Lexicographer,Mid,1-10,USA,9,4,25,658,5,4,2,0,0,0,1,14,57,13
+LEAD_359,thomaskelly@example.com,"Williams, Fields and Thomas",Healthcare,Historic buildings inspector/conservation officer,Executive,201-1000,Germany,17,0,8,249,11,2,2,0,0,4,6,99,58,27
+LEAD_360,xglass@example.net,Keller-Martin,Healthcare,Research scientist (life sciences),Mid,1-10,USA,13,2,0,395,6,2,1,1,1,3,8,114,42,11
+LEAD_361,alex97@example.net,"Hodge, Santos and Gray",Retail,"Scientist, forensic",Entry,1-10,USA,12,5,9,267,18,1,2,1,0,1,8,27,38,11
+LEAD_362,becky02@example.org,"Chapman, Mcdowell and Newman",Retail,"Therapist, speech and language",Senior,201-1000,USA,3,3,3,744,3,4,1,1,1,2,0,45,12,9
+LEAD_363,victoria21@example.com,Cantu PLC,Education,"Engineer, communications",Senior,51-200,India,8,9,7,340,7,1,1,0,0,0,5,7,48,21
+LEAD_364,sherylhansen@example.com,"Knight, Park and Dennis",Healthcare,"Engineer, automotive",Senior,201-1000,Germany,7,1,11,607,15,3,1,1,0,0,9,110,12,17
+LEAD_365,uhuang@example.com,Macias Group,Retail,Midwife,Mid,201-1000,UK,8,0,4,344,18,0,2,1,1,2,8,101,49,3
+LEAD_366,hodgesbrad@example.net,Peterson-Coleman,Technology,Public relations officer,Senior,11-50,Germany,8,6,0,748,3,1,0,1,1,3,8,40,46,18
+LEAD_367,brownkatherine@example.org,Thomas-Miller,Technology,English as a foreign language teacher,Senior,51-200,UK,17,5,22,527,17,4,1,0,0,4,2,113,34,13
+LEAD_368,tconrad@example.com,Massey-Carpenter,Education,Building surveyor,Mid,11-50,India,9,9,2,585,11,3,2,1,1,4,5,49,6,5
+LEAD_369,david26@example.org,"Baker, Shepherd and Richardson",Education,"Engineer, land",Executive,1000+,UK,4,7,0,758,8,4,2,1,0,3,4,88,40,24
+LEAD_370,david85@example.com,"Schultz, Bass and Fuller",Education,Water engineer,Senior,201-1000,UK,18,1,6,628,1,4,0,1,1,4,1,87,41,19
+LEAD_371,orollins@example.com,Wells-Nelson,Retail,Stage manager,Senior,201-1000,India,0,1,27,351,4,1,0,1,1,3,0,88,39,11
+LEAD_372,eileen40@example.org,Nelson-Potter,Finance,"Scientist, research (life sciences)",Entry,1000+,India,7,1,24,315,5,1,2,0,0,0,1,107,9,20
+LEAD_373,william87@example.com,Bailey Group,Healthcare,Statistician,Executive,51-200,Germany,18,7,3,71,5,3,0,0,1,4,0,77,39,16
+LEAD_374,chayes@example.com,Ross-Scott,Finance,"Engineer, building services",Mid,1000+,USA,11,3,7,490,13,3,2,0,1,3,9,38,42,26
+LEAD_375,brewerjennifer@example.org,Smith-Taylor,Healthcare,Copy,Entry,51-200,USA,15,4,32,664,8,2,0,0,0,4,9,62,51,14
+LEAD_376,ythompson@example.net,Bradford-Murphy,Healthcare,"Teacher, primary school",Senior,1-10,UK,19,3,15,142,11,1,0,1,1,3,5,52,32,12
+LEAD_377,robertmoore@example.org,Lee-Mitchell,Retail,"Designer, blown glass/stained glass",Mid,1-10,UK,15,2,17,128,16,4,0,0,1,0,4,93,52,22
+LEAD_378,sampsonjoseph@example.org,Dunn-Hull,Healthcare,Editorial assistant,Senior,1000+,India,5,4,12,210,14,0,2,0,0,0,4,32,51,23
+LEAD_379,marysimpson@example.org,Garcia-White,Healthcare,Operational investment banker,Senior,51-200,USA,18,4,7,606,3,4,0,0,1,1,2,73,42,9
+LEAD_380,wthomas@example.org,Owens Inc,Healthcare,Insurance broker,Senior,11-50,Germany,0,0,16,370,1,3,1,1,0,0,0,117,8,12
+LEAD_381,jose80@example.org,Davidson Inc,Education,English as a second language teacher,Senior,201-1000,India,11,6,6,247,2,1,2,0,0,4,8,110,6,21
+LEAD_382,tsloan@example.net,"Dawson, Brooks and Galvan",Healthcare,Dancer,Entry,11-50,USA,12,2,39,688,9,1,1,1,0,2,5,3,32,14
+LEAD_383,michael34@example.com,Howell-Collins,Technology,Adult nurse,Senior,51-200,USA,11,4,32,353,9,4,1,1,0,4,3,59,19,9
+LEAD_384,nmacdonald@example.org,Turner Group,Finance,Chief Technology Officer,Senior,1000+,Canada,19,3,0,721,10,1,0,0,0,2,5,18,48,4
+LEAD_385,longbrett@example.com,Cox Group,Healthcare,Sales promotion account executive,Senior,201-1000,Germany,17,8,6,418,12,2,2,1,1,4,0,13,14,11
+LEAD_386,rogerslori@example.com,"Nash, Patel and Rios",Retail,Biomedical scientist,Mid,11-50,USA,4,0,23,703,1,0,1,1,0,4,0,70,47,14
+LEAD_387,moorecharlene@example.org,Ford-Howard,Finance,Art therapist,Executive,201-1000,USA,18,1,6,113,17,3,2,0,0,2,4,45,42,1
+LEAD_388,uferguson@example.org,Green-Garcia,Retail,"Doctor, general practice",Executive,1-10,India,8,5,0,592,12,0,0,0,0,4,3,13,35,7
+LEAD_389,xmaddox@example.net,Washington-Hooper,Retail,Applications developer,Executive,11-50,India,4,7,34,754,2,2,2,1,1,0,0,118,32,25
+LEAD_390,heather01@example.net,Foley-Moore,Retail,Research scientist (maths),Senior,11-50,UK,14,3,5,119,11,4,2,1,0,2,6,76,9,1
+LEAD_391,lisa96@example.net,White-Thompson,Education,Corporate treasurer,Senior,11-50,Canada,1,5,9,578,6,2,1,0,1,1,6,23,32,22
+LEAD_392,lberg@example.net,"Thornton, Owens and Adams",Education,Telecommunications researcher,Executive,201-1000,Canada,10,2,4,197,14,1,2,0,0,3,4,29,49,25
+LEAD_393,andersonkyle@example.com,Brock-Watson,Technology,Location manager,Mid,11-50,USA,4,2,6,787,8,1,2,0,0,3,7,103,47,2
+LEAD_394,kristina69@example.net,Mendoza-Francis,Finance,"Geneticist, molecular",Entry,201-1000,UK,16,5,19,362,18,0,0,0,1,3,8,27,57,25
+LEAD_395,xbaker@example.org,Estes-Burgess,Retail,Ergonomist,Executive,201-1000,UK,11,2,12,185,17,2,1,1,0,1,5,22,41,2
+LEAD_396,xwerner@example.org,"Stein, Yu and May",Healthcare,"Surveyor, minerals",Entry,1-10,USA,3,2,2,426,11,1,1,1,0,3,2,86,12,26
+LEAD_397,davisvictoria@example.net,Hayes-Wilson,Retail,Radiation protection practitioner,Executive,1-10,UK,19,2,25,178,9,1,2,1,0,1,2,92,5,24
+LEAD_398,daniel10@example.com,Christensen Ltd,Technology,Retail manager,Mid,51-200,UK,4,4,10,635,10,4,2,0,1,4,2,82,14,6
+LEAD_399,gallagherjohn@example.com,Robinson PLC,Technology,"Development worker, community",Mid,1000+,UK,14,6,34,678,19,0,0,1,1,3,7,101,29,16
+LEAD_400,cherylreed@example.com,Scott Ltd,Retail,Building control surveyor,Senior,1000+,USA,2,8,18,393,1,1,2,1,1,3,1,21,56,12
